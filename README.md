@@ -5,7 +5,7 @@
 0) Explanatory Video: 
 
 ```
-
+http://youtu.be/cIYxzFxAMH4?hd=1
 ```
 
 1) Consider complexity. How fast does your code run? How does it scale?
