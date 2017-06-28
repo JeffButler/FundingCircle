@@ -4,9 +4,10 @@
 
 0) Explanatory Video: 
 
-```
-http://youtu.be/cIYxzFxAMH4?hd=1
-```
+    ```
+    Background: http://youtu.be/cIYxzFxAMH4?hd=1
+    Algorithm:  http://youtu.be/iW1YmjRZtrM?hd=1
+    ```
 
 1) Consider complexity. How fast does your code run? How does it scale?
 
